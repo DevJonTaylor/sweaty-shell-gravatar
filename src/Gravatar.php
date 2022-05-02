@@ -7,14 +7,13 @@
  * @see https://github.com/DevJonTaylor/sweaty-shell-gravatar/
  */
 
-namespace SweatyShell\Gravatar;
+namespace SweatyShell;
 
 class Gravatar
 {
     protected $hash = '';
     protected $url = 'https://www.gravatar.com/avatar/';
     protected $default = '';
-
 
     /**
      * Gravatar constructor.

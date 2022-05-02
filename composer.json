@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "SweatyShell\\": "src"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
