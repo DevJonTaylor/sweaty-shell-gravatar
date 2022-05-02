@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<phpunit bootstrap="vendor/autoload.php" colors="true" verbose="true" stepOnFailure="false">
+<phpunit bootstrap="vendor/autoload.php" colors="true" verbose="true">
     <testsuites>
-        <testsuite name="ss-gravatar">
+        <testsuite name="gravatar">
             <directory>__tests__</directory>
         </testsuite>
     </testsuites>
