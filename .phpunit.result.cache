@@ -1,1 +1,1 @@
-{"version":1,"defects":{"Warning":6},"times":{"Warning":0.002}}
+{"version":1,"defects":{"Warning":6},"times":{"Warning":0.002,"GravatarTest::testEmailIsHashed":0.003,"GravatarTest::testToString":0}}
